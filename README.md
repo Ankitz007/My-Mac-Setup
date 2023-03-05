@@ -10,3 +10,4 @@ List of some of the apps and utility scripts I use to customize my Mac. Let's ge
 6. [Visual Studio Code](visual%20studio%20code/README.md)
 7. [Browser Extensions](browser/README.md)
 8. [Goto Terminal Utility](goto/README.md)
+9. [Warp Terminal](warp/README.md)
