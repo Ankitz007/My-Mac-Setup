@@ -1,0 +1,138 @@
+{
+  "about": {
+    "browser": "chrome",
+    "version": "1.15.6"
+  },
+  "background_blur": 0,
+  "background_bright": 0.87,
+  "background_type": "custom",
+  "clock": {
+    "ampm": false,
+    "analog": false,
+    "face": "none",
+    "seconds": false,
+    "timezone": "auto"
+  },
+  "css": "",
+  "cssHeight": 99.984375,
+  "custom_every": "pause",
+  "custom_time": 1650516688,
+  "dark": "system",
+  "dynamic": {
+    "collection": "",
+    "every": "hour",
+    "lastCollec": "day",
+    "time": 1677917969639
+  },
+  "favicon": "",
+  "font": {
+    "availWeights": [
+      "100",
+      "200",
+      "300",
+      "400",
+      "500",
+      "600",
+      "700",
+      "800",
+      "900"
+    ],
+    "family": "Fira Sans",
+    "size": "14.45",
+    "url": "https://fonts.googleapis.com/css?family=Fira%20Sans:400",
+    "weight": "400"
+  },
+  "greeting": "Ankit",
+  "hide": [[0, 0], [0, 0, 1], [0], [0]],
+  "lang": "en",
+  "linknewtab": false,
+  "linkscdpqcc": {
+    "_id": "linkscdpqcc",
+    "icon": "https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/gmail.svg",
+    "order": 2,
+    "title": "Gmail",
+    "url": "https://mail.google.com/"
+  },
+  "linksichhoh": {
+    "_id": "linksichhoh",
+    "icon": "https://github.githubassets.com/apple-touch-icon-114x114.png",
+    "order": 0,
+    "title": "Github Home",
+    "url": "https://www.github.com/ankitz007"
+  },
+  "linksknjddf": {
+    "_id": "linksknjddf",
+    "icon": "https://static.licdn.com/aero-v1/sc/h/al2o9zrvru7aqj8e1x2rzsrca",
+    "order": 1,
+    "title": "LinkedIn",
+    "url": "https://www.linkedin.com/in/ankitz007"
+  },
+  "linksocjiic": {
+    "_id": "linksocjiic",
+    "icon": "https://raw.githubusercontent.com/edent/SuperTinyIcons/master/images/svg/google_drive.svg",
+    "order": 3,
+    "title": "Google Drive",
+    "url": "https://drive.google.com/"
+  },
+  "linksregeab": {
+    "_id": "linksregeab",
+    "icon": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Google_Keep_icon_%282020%29.svg",
+    "order": 5,
+    "title": "Keep",
+    "url": "https://keep.google.com/"
+  },
+  "linksrkprcl": {
+    "_id": "linksrkprcl",
+    "icon": "https://www.gstatic.com/youtube/img/branding/favicon/favicon_192x192.png",
+    "order": 4,
+    "title": "YouTube",
+    "url": "https://www.youtube.com/"
+  },
+  "linksrow": 9,
+  "linkstyle": "large",
+  "notes": {
+    "align": "left",
+    "on": false,
+    "opacity": 0.1,
+    "text": "### Double click to edit!  \n\n[ ] Supports Markdown and clickable checkboxes  \n[ ] With keyboard shortcuts, [see documentation](https://bonjourr.fr/docs/overview/#notes)"
+  },
+  "quicklinks": true,
+  "quotes": {
+    "author": true,
+    "frequency": "hour",
+    "last": 1678021305495,
+    "on": true,
+    "type": "classic"
+  },
+  "reviewPopup": "removed",
+  "searchbar": {
+    "engine": "bing",
+    "newtab": false,
+    "on": true,
+    "opacity": 0.13,
+    "request": ""
+  },
+  "showall": false,
+  "tabtitle": "",
+  "textShadow": 0.25,
+  "usdate": false,
+  "weather": {
+    "ccode": "IN",
+    "city": "Jaipur",
+    "fcHigh": 27,
+    "forecast": "auto",
+    "lastCall": 1678020153,
+    "lastState": {
+      "description": "few clouds",
+      "feels_like": 27.82,
+      "icon_id": 801,
+      "sunrise": 1677979078,
+      "sunset": 1678021196,
+      "temp": 28.65,
+      "temp_max": 28.65
+    },
+    "location": [26.9525, 75.7105],
+    "temperature": "actual",
+    "unit": "metric"
+  }
+}
