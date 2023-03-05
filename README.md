@@ -9,3 +9,4 @@ List of some of the apps and utility scripts I use to customize my Mac. Let's ge
 5. [HazeOver](hazeover/README.md)
 6. [Notion](notion/README.md)
 7. [Visual Studio Code](visual%20studio%20code/README.md)
+8. [Goto Terminal Utility](goto/README.md)
